@@ -42,7 +42,5 @@ A web-based tool that allows users to upload research papers in PDF format and r
 | Deployment       | [Render](https://render.com)               |
 | Language         | Python                                     |
 
----
 
-## 📂 Project Structure
 
